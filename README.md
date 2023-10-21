@@ -1,5 +1,7 @@
 # phase3 Quizy sample code
 
+POSSE課題です
+
 ## setup
 
 `git clone https://github.com/posse-ap/sample-ph3-quizy.git`
